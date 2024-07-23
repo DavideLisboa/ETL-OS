@@ -1,0 +1,18 @@
+{
+    "ws_matricula": "22",
+    "url_dominio_servico_abertura": "https://secweb.procergs.com.br/scy/rest/web/geoportal/dominioGeoServicoAbertura",
+    "log_path": "D:\\\\Scripts\\\\ETL-OS\\\\log",
+    "gdb_path": "D:\\\\Scripts\\\\sde\\\\giscor.sde",
+    "url_os": "https://secweb.procergs.com.br/scy/rest/web/geoportal/geoOrdemServico",
+    "ws_organizacao": "CORSAN",
+    "ws_senha": "Geoportal@019",
+    "url_SOE_token": "https://www.soe.rs.gov.br/soeauth/connect/token",
+    "fc_rs": "GIS.MAPA_RS",
+    "url_dominio_servico_encerramento": "https://secweb.procergs.com.br/scy/rest/web/geoportal/dominioGeoServicoEncerramento",
+    "tb_os": "GIS.TB_ORDENS_SERVICOS",
+    "ultima_data_atualizacao": "14/05/2024",
+    "fc_consumidores": "GIS.MVW_C",
+    "fc_os": "GIS.OS_1",
+    "log_file_name": "log",
+    "fc_municipios": "GIS.MUNICIPIO_OS_1"
+}
